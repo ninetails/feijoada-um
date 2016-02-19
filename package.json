@@ -1,8 +1,8 @@
 {
-  "name": "react-seed",
-  "version": "0.0.16",
-  "description": "Seed project for React apps using ES6 & webpack.",
-  "repository": "https://github.com/badsyntax/react-seed",
+  "name": "feijoada-um",
+  "version": "0.0.1",
+  "description": "Studies about React, Redux and Immutable. Used badsyntax/react-seed as boilerplate.",
+  "repository": "https://github.com/ninetails/feijoada-um",
   "license": "MIT",
   "config": {
     "buildDir": "./build",
